@@ -1,7 +1,7 @@
 all: battleship
 
 battleship.o: battleship.cpp
-		g++ -c battleship.cpp
+	g++ -c battleship.cpp
 
 player.o: player.cpp
 	g++ -c player.cpp
