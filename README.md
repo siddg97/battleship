@@ -13,7 +13,7 @@ cpp --version
 >> cpp 7.3.0
 ```
 ### Running
+Run the following command in the terminal after navigating to teh root directory of this project.
 ```
-make
-./battleship
+make && ./battleship
 ```
